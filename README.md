@@ -1,16 +1,19 @@
-## Hi there 👋
+<!-- Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lakshika%20Sewwandi&fontSize=45)
 
-<!--
-**Lakshika66/Lakshika66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Views Badge -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Lakshika66&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+## 💫 About Me
+- 🎓 **HNDIT** Student
+- 💻 Passionate about Web Development (React, Tailwind CSS) & Java
+- 🎨 Graphic Designer (Photoshop, Illustrator, Canva, Figma)
+- 🚀 Enthusiastic about learning new technologies and building creative projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+- **Languages:** Java, JavaScript, HTML5, CSS3
+- **Frameworks & Libraries:** React, Tailwind CSS
+- **Design Tools:** Photoshop, Illustrator, Canva, Figma
+- **IDE & Tools:** VS Code, NetBeans, Git, GitHub
