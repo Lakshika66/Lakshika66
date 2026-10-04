@@ -17,7 +17,7 @@
 * 🔭 I'm currently working on **Full Stack**
 * 🌱 I'm currently learning **React, Next.js & Cloud Technologies**
 * 👯 I'm looking to collaborate on **React, Java & UI/UX Projects**
-* 🤝 I'm looking for help with **Scalable Web Architecture**
+* 🤝 I'm looking for help with **Scalable Web Develop**
 * 💬 Ask me about **Java, React, HTML, CSS, JavaScript**
 * ⚡ Fun fact: **I love turning ideas into real websites, web applications & apps 🚀**
 
