@@ -52,11 +52,10 @@
 </p>
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/lakshika-sewwandi-128a12440/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" />
   </a>
 </p>
