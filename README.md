@@ -54,12 +54,6 @@
 
 ---
 
-## 🏆 Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakshika66&theme=flat" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
